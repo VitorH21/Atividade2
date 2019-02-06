@@ -1,0 +1,33 @@
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.deps.json
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.json
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.dev.json
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.csprojAssemblyReference.cache
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfo.cs
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho2\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\bin\Debug\netcoreapp2.1\Atividade1.deps.json
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.json
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.dev.json
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\bin\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\bin\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\obj\Debug\netcoreapp2.1\Atividade1.csprojAssemblyReference.cache
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\obj\Debug\netcoreapp2.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfo.cs
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\obj\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\leona\Documents\BCC - S6\LP2\Trabalho3\atividade1\obj\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\bin\Debug\netcoreapp2.1\Atividade1.deps.json
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.json
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.dev.json
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\bin\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\bin\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\obj\Debug\netcoreapp2.1\Atividade1.csprojAssemblyReference.cache
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\obj\Debug\netcoreapp2.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfo.cs
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\obj\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\vitor\Downloads\atividade2-master\atividade2-master\obj\Debug\netcoreapp2.1\Atividade1.pdb
